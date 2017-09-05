@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Todo</name>
+    </assembly>
+    <members>
+        <member name="M:Todo.Controllers.TodoController.Create(Todo.Models.TodoItem)">
+            <summary>
+            Creates new Item
+            </summary>
+            <param name="item"></param>
+            <returns>New Created Item</returns>
+            <response code="200">Returns newly created item</response>
+            <response code="400">If the item is null</response>
+        </member>
+        <member name="M:Todo.Controllers.TodoController.Delete(System.Int64)">
+            <summary>
+            Deletes a specific Todo Item
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
