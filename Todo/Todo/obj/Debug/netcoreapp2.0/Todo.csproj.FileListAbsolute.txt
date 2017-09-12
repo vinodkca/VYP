@@ -22,3 +22,15 @@ C:\Repos\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.AssemblyInfoInputs.cache
 C:\Repos\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.AssemblyInfo.cs
 C:\Repos\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.dll
 C:\Repos\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.pdb
+C:\Git\VYP\Todo\Todo\bin\Debug\netcoreapp2.0\Todo.xml
+C:\Git\VYP\Todo\Todo\bin\Debug\netcoreapp2.0\Todo.deps.json
+C:\Git\VYP\Todo\Todo\bin\Debug\netcoreapp2.0\Todo.runtimeconfig.json
+C:\Git\VYP\Todo\Todo\bin\Debug\netcoreapp2.0\Todo.runtimeconfig.dev.json
+C:\Git\VYP\Todo\Todo\bin\Debug\netcoreapp2.0\Todo.dll
+C:\Git\VYP\Todo\Todo\bin\Debug\netcoreapp2.0\Todo.pdb
+C:\Git\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.csprojResolveAssemblyReference.cache
+C:\Git\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.csproj.CoreCompileInputs.cache
+C:\Git\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.AssemblyInfoInputs.cache
+C:\Git\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.AssemblyInfo.cs
+C:\Git\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.dll
+C:\Git\VYP\Todo\Todo\obj\Debug\netcoreapp2.0\Todo.pdb

@@ -109,8 +109,8 @@ namespace Todo
         //public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-           // loggerFactory.AddConsole(Configuration.GetSection("Logging"));
-           // loggerFactory.AddDebug();
+            // loggerFactory.AddConsole(Configuration.GetSection("Logging"));
+            // loggerFactory.AddDebug();
 
 
             //Enable static files for Swagger UI custom menu index.html
@@ -137,7 +137,7 @@ namespace Todo
             app.UseSwaggerUI(c =>
            {
                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Todo Project API");
-               //Exmaple of Multiple Swagger docs
+               //Example of Multiple Swagger docs
                c.SwaggerEndpoint("/swagger/v2/swagger2.json", "Todo Project API - Future");
 
                //c.RoutePrefix = "swagger/ui"; //"documents"
